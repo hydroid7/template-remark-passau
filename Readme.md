@@ -12,8 +12,8 @@ $ bs serve
 ```
 
 # The Tech Stack
-We are using the awesome Remark.js package to write the content im Markdown.
-Backslide makes your dev experience goes to the haven.
+We are using the awesome [Remark.js](https://github.com/gnab/remark) package to write the content im Markdown.
+[Backslide](https://github.com/sinedied/backslide) makes your dev experience goes to the haven.
 
 # In case you improved the design...
 ...please open a pull request.
