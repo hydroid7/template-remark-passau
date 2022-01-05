@@ -6,6 +6,12 @@ Have a lot of fun!
 
 PS: I've linked the beamer template for you [https://github.com/Daeinar/beamer-uni-passau.git](https://github.com/Daeinar/beamer-uni-passau.git)
 
+# Nuts and Bolts
+
+- You can insert images without downloading them first.
+- If you generate a lot of figures: you can update them like in a file system
+- Use draw.io for images; save them as editable svg or png.
+
 # How to run
 ```
 $ npm install -g backslide
