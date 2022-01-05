@@ -1,8 +1,10 @@
-# Remark JS Template for Universität Passau
+# Remark JS Inofficial Template for Universität Passau
 
 So... You're a nerd and study at Universität Passau! Good news!!
 I've got your back covered: with this nice template you can avoid the use of MS Office and the famous `beamer` package.
 Have a lot of fun!
+
+PS: I've linked the beamer template for you [https://github.com/Daeinar/beamer-uni-passau.git](https://github.com/Daeinar/beamer-uni-passau.git)
 
 # How to run
 ```
